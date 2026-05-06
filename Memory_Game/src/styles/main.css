@@ -76,7 +76,7 @@ h2 {
     background: #1d1b1b;
     transform: rotateY(0deg);
     backface-visibility: hidden;
-    inset: 0;]
+    inset: 0;
     transition: 0.25s;
 
 }
